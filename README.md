@@ -44,12 +44,7 @@ En este repositorio encontrarás una organización de mi camino como ingeniero d
 Estas son algunas de las tecnologías y herramientas que utilizo y estoy aprendiendo:  
 
 ### Lenguajes de programación  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
-![Batch](https://img.shields.io/badge/Batch-000000?style=for-the-badge&logo=windows&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8200?style=for-the-badge&logo=Mathworks&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  ![Batch](https://img.shields.io/badge/Batch-000000?style=for-the-badge&logo=windows&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-FF8200?style=for-the-badge&logo=Mathworks&logoColor=white)  
 
 ### Desarrollo web  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
