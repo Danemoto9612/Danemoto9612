@@ -36,8 +36,7 @@ En este repositorio encontrarás una organización de mi camino como ingeniero d
 - 📚 [Knowledge](./knowledge/) → Notas, resúmenes de libros y lecturas académicas.  
 - 🛠️ [Skills](./skills/) → Ejemplos prácticos de programación, arquitectura y mecatrónica.  
 - 📖 [Docs](./docs/) → Documentos de visión, roadmap y reflexiones personales.  
-- 🎨 [Assets](./assets/) → Diagramas, presentaciones y recursos gráficos.  
-## 💻 Tecnologías favoritas  
+- 🎨 [Assets](./assets/) → Diagramas, presentaciones y recursos gráficos.   
 
 ## 💻 Tecnologías favoritas  
 
