@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hola, soy Daniel Morales  
 
-Soy estudiante de **Ingeniería de Software en el TdeA** (actualmente en tercer semestre).  
+Soy estudiante de **Ingeniería de Software en el TdeA** (actualmente en cuarto semestre).  
 Me apasiona esta ingeniería porque me permite **resolver problemas de forma creativa** y en **armonía con la tecnología**.  
 
 Mi objetivo es crecer como desarrollador, fortalecer mis competencias en programación y diseño de software, y aportar a proyectos que generen valor real para las personas y las organizaciones.  
